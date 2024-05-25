@@ -1,0 +1,18 @@
+.banner-container{
+    display: flex;
+    gap: 1rem;
+}
+.banner-card{
+    width: 32%;
+}
+.menu-text{
+    display: flex;
+    flex-direction: column;
+}
+.icon-img{
+    background-color:  #d2e3c8 !important;
+    color: #4f6f4f !important;
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 50%;
+}
